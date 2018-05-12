@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37458'
     url: http://www.gutenberg.org/2009/agents/37458
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35104#Over-Here--Impressions-of-America-by-a-British-officer
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2011-01-28'
 gutenberg_type: Text
