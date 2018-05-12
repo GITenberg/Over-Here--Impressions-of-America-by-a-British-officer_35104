@@ -1,0 +1,28 @@
+_repo: Over-Here--Impressions-of-America-by-a-British-officer_35104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacQuarrie, Hector
+    gutenberg_agent_id: '37458'
+    url: http://www.gutenberg.org/2009/agents/37458
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2011-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35104'
+  lccn: '18010771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcc 'E151'
+title: 'Over Here: Impressions of America by a British officer'
+url: http://www.gutenberg.org/ebooks/35104
